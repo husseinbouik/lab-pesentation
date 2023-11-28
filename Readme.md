@@ -3,7 +3,7 @@
 ## Objectif
 Réaliser une présentation sur le processus de création d'une présentation professionnelle.
 
-## Tâches Réalisées
+## Travail à Faire
 - Création d'une présentation détaillant les étapes pour concevoir une présentation professionnelle de qualité.
 - Inclusion d'un fichier README décrivant le contenu et le contexte de la présentation.
 
